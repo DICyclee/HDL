@@ -1,4 +1,4 @@
 *.pdf
-*.dat
-*.bmp
-*.txt
+# *.dat
+# *.bmp
+# *.txt
